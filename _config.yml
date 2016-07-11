@@ -1,18 +1,18 @@
-typography_spectrum: 0.4364413439761847
+typography_spectrum: 0.4939321281854063
 content_rating:
   adult: false
 color:
-  brandStrength: 0.026258342433720827
-  lightness: 0.3195416459348053
-  saturation: 0.21069280640222132
-  rhythmicContrast: 0.6140675176866353
+  brandStrength: 0.7421735788229853
+  lightness: 0.5014031447935849
+  saturation: 0.23974295263178647
+  rhythmicContrast: 0.484897417249158
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.5792717831209302
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+layout_spectrum: 0.8663092560600489
 author:
   name: Ash d'Oliveira
   email: ashleyd_@live.com
