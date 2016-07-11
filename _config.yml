@@ -1,0 +1,14 @@
+layout_spectrum: 0.5792717831209302
+typography_spectrum: 0.4364413439761847
+color:
+  brandStrength: 0.026258342433720827
+  lightness: 0.3195416459348053
+  saturation: 0.21069280640222132
+  rhythmicContrast: 0.6140675176866353
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: art\\chitecture
